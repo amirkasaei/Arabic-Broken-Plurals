@@ -51,3 +51,8 @@ only on first dataset
 
 ## Results
 we can see that most of our errors on both datasets are among unseen data and also broken plural forms
+
+## Colaborators
+- Amir Kasaei
+- Amir Ezzati
+- Amin Daemdoost
