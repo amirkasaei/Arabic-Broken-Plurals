@@ -1,6 +1,4 @@
-# Arabic_Broken_Plurals
-
-# Arabic Broken Plural Nouns: Revisited
+# Arabic Broken Plurals
 
 
 ## Quick literature review:
